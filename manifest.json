@@ -3,14 +3,14 @@
   "shelves":
   [
     {
-      "Name":"",
-      "Buttons":
+      "name":"",
+      "buttons":
       [
         {
-          "Name": "Alert",
-          "Icon": "",
-          "Tooltip": "",
-          "ScriptPath": "alert.psjs"
+          "name": "Alert",
+          "icon": "",
+          "tooltip": "",
+          "scriptPath": "alert.psjs"
         }
       ]
     }
