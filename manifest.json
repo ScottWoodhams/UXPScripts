@@ -11,6 +11,12 @@
           "icon": "",
           "tooltip": "",
           "scriptPath": "alert.psjs"
+        },
+        {
+          "name": "Test",
+          "icon": "",
+          "tooltip": "",
+          "scriptPath": "test.psjs"
         }
       ]
     }
