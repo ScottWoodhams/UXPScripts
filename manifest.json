@@ -13,7 +13,7 @@
           "scriptPath": "alert.psjs"
         },
         {
-          "name": "Test",
+          "name": "UpdateLibrary",
           "icon": "",
           "tooltip": "",
           "scriptPath": "test.psjs"
