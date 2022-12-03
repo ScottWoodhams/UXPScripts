@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "shelves":
+  [
+    {
+      "Name":"",
+      "Buttons":
+      [
+        {
+          "Name": "Alert",
+          "Icon": "",
+          "Tooltip": "",
+          "ScriptPath": "alert.psjs"
+        }
+      ]
+    }
+  ]
+}
