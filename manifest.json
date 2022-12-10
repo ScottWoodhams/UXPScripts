@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
+  "version": "0.0.5",
   "shelves":
   [
     {
@@ -11,12 +11,6 @@
           "icon": "Alert",
           "tooltip": "This will display an alert",
           "scriptPath": "alert"
-        },
-        {
-          "name": "UpdateLibraryTest",
-          "icon": "",
-          "tooltip": "",
-          "scriptPath": "test.psjs"
         }
       ]
     }
