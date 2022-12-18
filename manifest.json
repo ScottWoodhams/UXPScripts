@@ -10,7 +10,13 @@
           "name": "Alert",
           "icon": "Alert",
           "tooltip": "This will display an alert",
-          "scriptPath": "alert"
+          "scriptPath": "Alert"
+        },
+        {
+          "name": "Dialog",
+          "icon": "Dialog",
+          "tooltip": "Test dialog",
+          "scriptPath": "Dialog"
         }
       ]
     }
