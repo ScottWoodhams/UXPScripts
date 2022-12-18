@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.625" height="57.594" viewBox="0 0 57.625 57.594">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #c8c8c8;
+        stroke-width: 5px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Triangle_1" data-name="Triangle 1" class="cls-1" d="M26.633,8.733a6,6,0,0,1,10.733,0L57.658,49.317A6,6,0,0,1,52.292,58H11.708a6,6,0,0,1-5.367-8.683Z" transform="translate(-3.188 -2.906)"/>
+  <image id="_" data-name="!" x="26.813" y="16.094" width="5" height="30" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAeCAYAAADkftS9AAAAYklEQVQokWM8ceLETAYGhjQGBEhnYmBgeM+ABnAKYgAaCN6jlUX08BFNHM/CwMBwloGBoQJJDMMz1ACgFKLEwMCwm4GBAUTfY2BgCAM5qQMqAAIguhyn4zuh2sCBwcDA0AkA3S4TTEwAJ/0AAAAASUVORK5CYII="/>
+</svg>
